@@ -1,0 +1,14 @@
+C:\Users\nagar\source\repos\ProgrammingPractice\bin\Debug\net8.0\ProgrammingPractice.exe
+C:\Users\nagar\source\repos\ProgrammingPractice\bin\Debug\net8.0\ProgrammingPractice.deps.json
+C:\Users\nagar\source\repos\ProgrammingPractice\bin\Debug\net8.0\ProgrammingPractice.runtimeconfig.json
+C:\Users\nagar\source\repos\ProgrammingPractice\bin\Debug\net8.0\ProgrammingPractice.dll
+C:\Users\nagar\source\repos\ProgrammingPractice\bin\Debug\net8.0\ProgrammingPractice.pdb
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\ProgrammingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\ProgrammingPractice.AssemblyInfoInputs.cache
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\ProgrammingPractice.AssemblyInfo.cs
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\ProgrammingPractice.csproj.CoreCompileInputs.cache
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\ProgrammingPractice.dll
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\refint\ProgrammingPractice.dll
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\ProgrammingPractice.pdb
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\ProgrammingPractice.genruntimeconfig.cache
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\ref\ProgrammingPractice.dll

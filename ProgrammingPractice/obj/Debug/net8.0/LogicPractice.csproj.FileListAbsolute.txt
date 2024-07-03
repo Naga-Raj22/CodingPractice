@@ -1,0 +1,28 @@
+C:\Users\nagar\source\repos\ProgrammingPractice\bin\Debug\net8.0\LogicPractice.exe
+C:\Users\nagar\source\repos\ProgrammingPractice\bin\Debug\net8.0\LogicPractice.deps.json
+C:\Users\nagar\source\repos\ProgrammingPractice\bin\Debug\net8.0\LogicPractice.runtimeconfig.json
+C:\Users\nagar\source\repos\ProgrammingPractice\bin\Debug\net8.0\LogicPractice.dll
+C:\Users\nagar\source\repos\ProgrammingPractice\bin\Debug\net8.0\LogicPractice.pdb
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.AssemblyInfoInputs.cache
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.AssemblyInfo.cs
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.csproj.CoreCompileInputs.cache
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.dll
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\refint\LogicPractice.dll
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.pdb
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.genruntimeconfig.cache
+C:\Users\nagar\source\repos\ProgrammingPractice\obj\Debug\net8.0\ref\LogicPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\bin\Debug\net8.0\LogicPractice.exe
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\bin\Debug\net8.0\LogicPractice.deps.json
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\bin\Debug\net8.0\LogicPractice.runtimeconfig.json
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\bin\Debug\net8.0\LogicPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\bin\Debug\net8.0\LogicPractice.pdb
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.AssemblyInfoInputs.cache
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.AssemblyInfo.cs
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.csproj.CoreCompileInputs.cache
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\obj\Debug\net8.0\refint\LogicPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.pdb
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\obj\Debug\net8.0\LogicPractice.genruntimeconfig.cache
+C:\Users\nagar\Documents\1 Practices\CodingPractice\ProgrammingPractice\obj\Debug\net8.0\ref\LogicPractice.dll

@@ -1,0 +1,28 @@
+C:\Users\nagar\source\repos\ConsoleApp1\bin\Debug\net8.0\PatternPractice.exe
+C:\Users\nagar\source\repos\ConsoleApp1\bin\Debug\net8.0\PatternPractice.deps.json
+C:\Users\nagar\source\repos\ConsoleApp1\bin\Debug\net8.0\PatternPractice.runtimeconfig.json
+C:\Users\nagar\source\repos\ConsoleApp1\bin\Debug\net8.0\PatternPractice.dll
+C:\Users\nagar\source\repos\ConsoleApp1\bin\Debug\net8.0\PatternPractice.pdb
+C:\Users\nagar\source\repos\ConsoleApp1\obj\Debug\net8.0\PatternPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagar\source\repos\ConsoleApp1\obj\Debug\net8.0\PatternPractice.AssemblyInfoInputs.cache
+C:\Users\nagar\source\repos\ConsoleApp1\obj\Debug\net8.0\PatternPractice.AssemblyInfo.cs
+C:\Users\nagar\source\repos\ConsoleApp1\obj\Debug\net8.0\PatternPractice.csproj.CoreCompileInputs.cache
+C:\Users\nagar\source\repos\ConsoleApp1\obj\Debug\net8.0\PatternPractice.dll
+C:\Users\nagar\source\repos\ConsoleApp1\obj\Debug\net8.0\refint\PatternPractice.dll
+C:\Users\nagar\source\repos\ConsoleApp1\obj\Debug\net8.0\PatternPractice.pdb
+C:\Users\nagar\source\repos\ConsoleApp1\obj\Debug\net8.0\PatternPractice.genruntimeconfig.cache
+C:\Users\nagar\source\repos\ConsoleApp1\obj\Debug\net8.0\ref\PatternPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\bin\Debug\net8.0\PatternPractice.exe
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\bin\Debug\net8.0\PatternPractice.deps.json
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\bin\Debug\net8.0\PatternPractice.runtimeconfig.json
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\bin\Debug\net8.0\PatternPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\bin\Debug\net8.0\PatternPractice.pdb
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\obj\Debug\net8.0\PatternPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\obj\Debug\net8.0\PatternPractice.AssemblyInfoInputs.cache
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\obj\Debug\net8.0\PatternPractice.AssemblyInfo.cs
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\obj\Debug\net8.0\PatternPractice.csproj.CoreCompileInputs.cache
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\obj\Debug\net8.0\PatternPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\obj\Debug\net8.0\refint\PatternPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\obj\Debug\net8.0\PatternPractice.pdb
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\obj\Debug\net8.0\PatternPractice.genruntimeconfig.cache
+C:\Users\nagar\Documents\1 Practices\CodingPractice\PatternPractice\obj\Debug\net8.0\ref\PatternPractice.dll

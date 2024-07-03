@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nagar\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BC5586-CFF1-41CF-9C34-411464471BD6}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\nagar\\source\\repos\\consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BC5586-CFF1-41CF-9C34-411464471BD6}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\nagar\\source\\repos\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3E4496-EF89-445E-868A-90C59883D866}|..\\Linq\\Linq.csproj|c:\\users\\nagar\\source\\repos\\linq\\linqpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5EBBC3-38A2-4257-8786-54CAA92BE670}|..\\ProgrammingPractice\\ProgrammingPractice.csproj|c:\\users\\nagar\\source\\repos\\programmingpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5EBBC3-38A2-4257-8786-54CAA92BE670}|..\\ProgrammingPractice\\ProgrammingPractice.csproj|c:\\users\\nagar\\source\\repos\\programmingpractice\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5EBBC3-38A2-4257-8786-54CAA92BE670}|..\\ProgrammingPractice\\ProgrammingPractice.csproj|c:\\users\\nagar\\source\\repos\\programmingpractice\\primenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5EBBC3-38A2-4257-8786-54CAA92BE670}|..\\ProgrammingPractice\\ProgrammingPractice.csproj|c:\\users\\nagar\\source\\repos\\programmingpractice\\arraycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5EBBC3-38A2-4257-8786-54CAA92BE670}|..\\ProgrammingPractice\\ProgrammingPractice.csproj|c:\\users\\nagar\\source\\repos\\programmingpractice\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3E4496-EF89-445E-868A-90C59883D866}|..\\Linq\\Linq.csproj|c:\\users\\nagar\\source\\repos\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5EBBC3-38A2-4257-8786-54CAA92BE670}|..\\ProgrammingPractice\\ProgrammingPractice.csproj|c:\\users\\nagar\\source\\repos\\programmingpractice\\commonfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5EBBC3-38A2-4257-8786-54CAA92BE670}|..\\ProgrammingPractice\\ProgrammingPractice.csproj|c:\\users\\nagar\\source\\repos\\programmingpractice\\armstrongnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E78D9D2-081D-4D73-BA50-E1C565C4A2A4}|ConsoleApp1.csproj|c:\\users\\nagar\\source\\repos\\consoleapp1\\pyramid_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E78D9D2-081D-4D73-BA50-E1C565C4A2A4}|ConsoleApp1.csproj|solutionrelative:pyramid_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5EBBC3-38A2-4257-8786-54CAA92BE670}|..\\ProgrammingPractice\\ProgrammingPractice.csproj|c:\\users\\nagar\\source\\repos\\programmingpractice\\stringreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5EBBC3-38A2-4257-8786-54CAA92BE670}|..\\ProgrammingPractice\\ProgrammingPractice.csproj|c:\\users\\nagar\\source\\repos\\programmingpractice\\fibonacciseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5EBBC3-38A2-4257-8786-54CAA92BE670}|..\\ProgrammingPractice\\ProgrammingPractice.csproj|c:\\users\\nagar\\source\\repos\\programmingpractice\\dictionarypractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E78D9D2-081D-4D73-BA50-E1C565C4A2A4}|ConsoleApp1.csproj|c:\\users\\nagar\\source\\repos\\consoleapp1\\numberiteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E78D9D2-081D-4D73-BA50-E1C565C4A2A4}|ConsoleApp1.csproj|solutionrelative:numberiteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E78D9D2-081D-4D73-BA50-E1C565C4A2A4}|ConsoleApp1.csproj|c:\\users\\nagar\\source\\repos\\consoleapp1\\diamond_parttern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E78D9D2-081D-4D73-BA50-E1C565C4A2A4}|ConsoleApp1.csproj|solutionrelative:diamond_parttern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E78D9D2-081D-4D73-BA50-E1C565C4A2A4}|ConsoleApp1.csproj|c:\\users\\nagar\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E78D9D2-081D-4D73-BA50-E1C565C4A2A4}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E78D9D2-081D-4D73-BA50-E1C565C4A2A4}|ConsoleApp1.csproj|c:\\users\\nagar\\source\\repos\\consoleapp1\\star_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E78D9D2-081D-4D73-BA50-E1C565C4A2A4}|ConsoleApp1.csproj|solutionrelative:star_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProgrammingPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\Program.cs",
+              "RelativeToolTip": "..\\ProgrammingPractice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:21:03.599Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApp2",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\ConsoleApp2.csproj",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeToolTip": "..\\ConsoleApp2\\ConsoleApp2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T17:37:31.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:36:44.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqPractice.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\Linq\\LinqPractice.cs",
+              "RelativeDocumentMoniker": "..\\Linq\\LinqPractice.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\Linq\\LinqPractice.cs",
+              "RelativeToolTip": "..\\Linq\\LinqPractice.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:10:29.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Palindrome.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\Palindrome.cs",
+              "RelativeDocumentMoniker": "..\\ProgrammingPractice\\Palindrome.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\Palindrome.cs",
+              "RelativeToolTip": "..\\ProgrammingPractice\\Palindrome.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:29:01.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrayCircle.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\ArrayCircle.cs",
+              "RelativeDocumentMoniker": "..\\ProgrammingPractice\\ArrayCircle.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\ArrayCircle.cs",
+              "RelativeToolTip": "..\\ProgrammingPractice\\ArrayCircle.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:41:49.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrimeNumber.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\PrimeNumber.cs",
+              "RelativeDocumentMoniker": "..\\ProgrammingPractice\\PrimeNumber.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\PrimeNumber.cs",
+              "RelativeToolTip": "..\\ProgrammingPractice\\PrimeNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:16:30.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\Factorial.cs",
+              "RelativeDocumentMoniker": "..\\ProgrammingPractice\\Factorial.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\Factorial.cs",
+              "RelativeToolTip": "..\\ProgrammingPractice\\Factorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:37:17.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArmstrongNumber.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\ArmstrongNumber.cs",
+              "RelativeDocumentMoniker": "..\\ProgrammingPractice\\ArmstrongNumber.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\ArmstrongNumber.cs",
+              "RelativeToolTip": "..\\ProgrammingPractice\\ArmstrongNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:18:25.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\CommonFunctions.cs",
+              "RelativeDocumentMoniker": "..\\ProgrammingPractice\\CommonFunctions.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\CommonFunctions.cs",
+              "RelativeToolTip": "..\\ProgrammingPractice\\CommonFunctions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:18:47.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\Linq\\Program.cs",
+              "RelativeToolTip": "..\\Linq\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:57:08.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StringReverse.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\StringReverse.cs",
+              "RelativeDocumentMoniker": "..\\ProgrammingPractice\\StringReverse.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\StringReverse.cs",
+              "RelativeToolTip": "..\\ProgrammingPractice\\StringReverse.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:16:48.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pyramid_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ConsoleApp1\\Pyramid_Pattern.cs",
+              "RelativeDocumentMoniker": "Pyramid_Pattern.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ConsoleApp1\\Pyramid_Pattern.cs",
+              "RelativeToolTip": "Pyramid_Pattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:25:01.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DictionaryPractice.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\DictionaryPractice.cs",
+              "RelativeDocumentMoniker": "..\\ProgrammingPractice\\DictionaryPractice.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\DictionaryPractice.cs",
+              "RelativeToolTip": "..\\ProgrammingPractice\\DictionaryPractice.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:17:24.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FibonacciSeries.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\FibonacciSeries.cs",
+              "RelativeDocumentMoniker": "..\\ProgrammingPractice\\FibonacciSeries.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ProgrammingPractice\\FibonacciSeries.cs",
+              "RelativeToolTip": "..\\ProgrammingPractice\\FibonacciSeries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:19:20.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NumberIteration.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ConsoleApp1\\NumberIteration.cs",
+              "RelativeDocumentMoniker": "NumberIteration.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ConsoleApp1\\NumberIteration.cs",
+              "RelativeToolTip": "NumberIteration.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:27:49.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Diamond_Parttern.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ConsoleApp1\\Diamond_Parttern.cs",
+              "RelativeDocumentMoniker": "Diamond_Parttern.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ConsoleApp1\\Diamond_Parttern.cs",
+              "RelativeToolTip": "Diamond_Parttern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:03:03.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:37:02.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Star_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\nagar\\source\\repos\\ConsoleApp1\\Star_Pattern.cs",
+              "RelativeDocumentMoniker": "Star_Pattern.cs",
+              "ToolTip": "C:\\Users\\nagar\\source\\repos\\ConsoleApp1\\Star_Pattern.cs",
+              "RelativeToolTip": "Star_Pattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:13:04.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

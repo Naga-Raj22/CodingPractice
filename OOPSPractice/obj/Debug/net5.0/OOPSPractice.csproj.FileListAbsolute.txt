@@ -1,0 +1,30 @@
+C:\Users\nagar\source\repos\ConsoleApp2\bin\Debug\net5.0\OOPSPractice.exe
+C:\Users\nagar\source\repos\ConsoleApp2\bin\Debug\net5.0\OOPSPractice.deps.json
+C:\Users\nagar\source\repos\ConsoleApp2\bin\Debug\net5.0\OOPSPractice.runtimeconfig.json
+C:\Users\nagar\source\repos\ConsoleApp2\bin\Debug\net5.0\OOPSPractice.runtimeconfig.dev.json
+C:\Users\nagar\source\repos\ConsoleApp2\bin\Debug\net5.0\OOPSPractice.dll
+C:\Users\nagar\source\repos\ConsoleApp2\bin\Debug\net5.0\OOPSPractice.pdb
+C:\Users\nagar\source\repos\ConsoleApp2\obj\Debug\net5.0\OOPSPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagar\source\repos\ConsoleApp2\obj\Debug\net5.0\OOPSPractice.AssemblyInfoInputs.cache
+C:\Users\nagar\source\repos\ConsoleApp2\obj\Debug\net5.0\OOPSPractice.AssemblyInfo.cs
+C:\Users\nagar\source\repos\ConsoleApp2\obj\Debug\net5.0\OOPSPractice.csproj.CoreCompileInputs.cache
+C:\Users\nagar\source\repos\ConsoleApp2\obj\Debug\net5.0\OOPSPractice.dll
+C:\Users\nagar\source\repos\ConsoleApp2\obj\Debug\net5.0\refint\OOPSPractice.dll
+C:\Users\nagar\source\repos\ConsoleApp2\obj\Debug\net5.0\OOPSPractice.pdb
+C:\Users\nagar\source\repos\ConsoleApp2\obj\Debug\net5.0\OOPSPractice.genruntimeconfig.cache
+C:\Users\nagar\source\repos\ConsoleApp2\obj\Debug\net5.0\ref\OOPSPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\bin\Debug\net5.0\OOPSPractice.exe
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\bin\Debug\net5.0\OOPSPractice.deps.json
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\bin\Debug\net5.0\OOPSPractice.runtimeconfig.json
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\bin\Debug\net5.0\OOPSPractice.runtimeconfig.dev.json
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\bin\Debug\net5.0\OOPSPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\bin\Debug\net5.0\OOPSPractice.pdb
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\obj\Debug\net5.0\OOPSPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\obj\Debug\net5.0\OOPSPractice.AssemblyInfoInputs.cache
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\obj\Debug\net5.0\OOPSPractice.AssemblyInfo.cs
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\obj\Debug\net5.0\OOPSPractice.csproj.CoreCompileInputs.cache
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\obj\Debug\net5.0\OOPSPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\obj\Debug\net5.0\refint\OOPSPractice.dll
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\obj\Debug\net5.0\OOPSPractice.pdb
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\obj\Debug\net5.0\OOPSPractice.genruntimeconfig.cache
+C:\Users\nagar\Documents\1 Practices\CodingPractice\OOPSPractice\obj\Debug\net5.0\ref\OOPSPractice.dll
